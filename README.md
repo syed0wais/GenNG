@@ -1,5 +1,5 @@
 # AI Code Generation Framework
-###### _a fork of bolt.new_
+
 
 
 
